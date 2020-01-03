@@ -1,4 +1,4 @@
-<img src="https://github.com/Naviden/database_mapping/blob/master/Images/logos.png" height="300" >
+<img src="https://github.com/Naviden/database_mapping/blob/master/Images/logos.png" height="300" align="center">
 
 # Academic Database Mapping
 
