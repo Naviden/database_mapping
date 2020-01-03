@@ -1,3 +1,5 @@
+<img src="https://github.com/Naviden/database_mapping/blob/master/Images/logos.png" height="200" >
+
 # Academic Database Mapping
 
 As a part of the _Literature review: how to build a good bibliography_ course in my PhD, I tried to map the following features for 6 of mostly used databases the Academia.
