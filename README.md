@@ -23,5 +23,5 @@ To answer to the second point, At first, I tried to create a simple scrapper, wh
 ## What you find in the repository
 
 - _description.docx_ has the mapped points for each database
-- _databases folder_ : for some of sources there are additional files about their content, either scrapped or downloaded directly from their site
+- _databases folder_ : for some of sources there are additional files(csv, json, Py, ...) about their content, either scrapped or downloaded directly from their site
   
